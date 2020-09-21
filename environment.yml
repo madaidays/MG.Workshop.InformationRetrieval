@@ -1,4 +1,4 @@
-name: mtg-ir
+name: mtg
 channels:
   - defaults
 dependencies:
@@ -17,3 +17,4 @@ dependencies:
       - tensorflow==2.0.0
       - tensorflow-hub==0.9.0
       - fasttext==0.9.1
+prefix: /anaconda3/envs/mtg
